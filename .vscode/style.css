@@ -153,6 +153,7 @@ fotter{
  text-align: center;
  font-size: 14px;
 }
+<<<<<<< HEAD
 
 @media (min-width: 700px) {
   :root {
@@ -163,3 +164,5 @@ fotter{
     --bg-url: url(./assets/bg-desktop-light.jpg)
   }
 }
+=======
+>>>>>>> 156799a9311d808433f53a0b682fba7ab79329c1
