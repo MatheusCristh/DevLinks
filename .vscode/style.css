@@ -34,7 +34,8 @@ body * {
 }
 
 #container{
-  width: 450px;
+  width: 100%;
+  max-width: 588px;
   margin: auto;
   padding: 0 24px;
 }
