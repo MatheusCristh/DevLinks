@@ -73,14 +73,12 @@ margin: 24px;
   left: 0;
   z-index: 1;
   transform: translateY(-30%);
-
   animation: slide-back 0.3s;
   
 }
 
 .light #switch button{
   animation: slide-in 0.3s forwards;
-
 }
 
 #switch button:hover {
